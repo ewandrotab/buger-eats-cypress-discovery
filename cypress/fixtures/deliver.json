@@ -1,0 +1,53 @@
+{
+    "signup": {
+        "name": "Nome do Empregador",
+        "cpf": "35687469988",
+        "email": "empregado@empresa.com",
+        "whatsapp": "4199998877",
+        "address": {
+            "postalcode": 81250000,
+            "street": "Rua José Batista dos Santos",
+            "number": 1000,
+            "details": "Terreo",
+            "district": "Cidade Industrial",
+            "city_state": "Curitiba/PR"
+        },
+        "delivery_method": "Moto",
+        "chn": "cnh-bean.jpg"
+    },
+
+    "cpf_inv": {
+        "name": "Nome do Empregador",
+        "cpf": "356874699AA",
+        "email": "empregado@empresa.com",
+        "whatsapp": "4199998877",
+        "address": {
+            "postalcode": 81250000,
+            "street": "Rua José Batista dos Santos",
+            "number": 1000,
+            "details": "Terreo",
+            "district": "Cidade Industrial",
+            "city_state": "Curitiba/PR"
+        },
+        "delivery_method": "Moto",
+        "chn": "cnh-bean.jpg"
+    },
+
+    "email_inv": {
+        "name": "Nome do Empregador",
+        "cpf": "35687469988",
+        "email": "empregado.empresa.com",
+        "whatsapp": "4199998877",
+        "address": {
+            "postalcode": 81250000,
+            "street": "Rua José Batista dos Santos",
+            "number": 1000,
+            "details": "Terreo",
+            "district": "Cidade Industrial",
+            "city_state": "Curitiba/PR"
+        },
+        "delivery_method": "Moto",
+        "chn": "cnh-bean.jpg"
+    }
+
+}
